@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642956768 source:c:\users\nikola\documents\github\finki\sp\kolokvium 2\termin 2\zadaca 2\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
