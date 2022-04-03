@@ -65,7 +65,7 @@ public:
         return 1;
     } 
 
-    bool endnakviSe(const OperativenSistem &os) {
+    bool ednakviSe(const OperativenSistem &os) {
         if(size != os.size)
             return false;
 
@@ -126,7 +126,7 @@ public:
         int idx = -1;
 
         for(int i = 0; i < n; i++){
-            if(OSs[i].endnakviSe(os))
+            if(OSs[i].ednakviSe(os))
                 idx = i;
         }
 
